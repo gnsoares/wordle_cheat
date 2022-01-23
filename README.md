@@ -1,0 +1,1 @@
+A way to get some help in Wordle (even though it totally defeats the purpose)
